@@ -1,0 +1,11 @@
+c:\dev\git-repositories\TestEf21\TestEf21\bin\Debug\netcoreapp2.1\TestEf21.deps.json
+c:\dev\git-repositories\TestEf21\TestEf21\bin\Debug\netcoreapp2.1\TestEf21.runtimeconfig.json
+c:\dev\git-repositories\TestEf21\TestEf21\bin\Debug\netcoreapp2.1\TestEf21.runtimeconfig.dev.json
+c:\dev\git-repositories\TestEf21\TestEf21\bin\Debug\netcoreapp2.1\TestEf21.dll
+c:\dev\git-repositories\TestEf21\TestEf21\obj\Debug\netcoreapp2.1\TestEf21.csprojAssemblyReference.cache
+c:\dev\git-repositories\TestEf21\TestEf21\obj\Debug\netcoreapp2.1\TestEf21.csproj.CoreCompileInputs.cache
+c:\dev\git-repositories\TestEf21\TestEf21\obj\Debug\netcoreapp2.1\TestEf21.AssemblyInfoInputs.cache
+c:\dev\git-repositories\TestEf21\TestEf21\obj\Debug\netcoreapp2.1\TestEf21.AssemblyInfo.cs
+C:\dev\git-repositories\TestEf21\TestEf21\bin\Debug\netcoreapp2.1\TestEf21.pdb
+C:\dev\git-repositories\TestEf21\TestEf21\obj\Debug\netcoreapp2.1\TestEf21.dll
+C:\dev\git-repositories\TestEf21\TestEf21\obj\Debug\netcoreapp2.1\TestEf21.pdb
